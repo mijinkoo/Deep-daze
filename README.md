@@ -7,4 +7,5 @@
 ### Examples
 
 - Text(input) : “an apple next to a fireplace”
-- Image(output)
+- Image(output)  
+![](./an_apple_next_to_a_fireplace.000106.jpg)
